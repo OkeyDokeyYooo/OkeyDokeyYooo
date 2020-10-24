@@ -1,3 +1,4 @@
+![alt text](https://github.com/OkeyDokeyYooo/OkeyDokeyYooo/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Allen Huang</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
