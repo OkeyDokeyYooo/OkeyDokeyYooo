@@ -1,7 +1,5 @@
 ### Hi there 👋, my name is Allen Huang
 
-Here are some ideas to get you started:
-
 - 🏫 I’m currently studying at SFU Vancouver
 - 🌱 I’m currently learning Full-Stack development
 - 💬 Ask me about anything
